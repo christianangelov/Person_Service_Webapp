@@ -1,0 +1,5 @@
+META-INF\panache-archive.marker
+entity\Person.class
+repository\Repository.class
+repository\DBRepository.class
+service\PersonService.class
